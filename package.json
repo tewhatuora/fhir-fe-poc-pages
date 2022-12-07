@@ -1,0 +1,12 @@
+{
+  "name": "fhir-fe-poc-pages",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "deploy" : "gh-pages -d build"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
