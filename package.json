@@ -1,6 +1,7 @@
 {
   "name": "fhir-fe-poc-pages",
   "version": "0.1.0",
+  "homepage": "https://abletech.github.io/fhir-fe-poc-pages/",
   "private": true,
   "scripts": {
     "deploy" : "gh-pages -d build"
