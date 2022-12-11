@@ -1,7 +1,7 @@
 {
   "name": "fhir-fe-poc-pages",
   "version": "0.1.0",
-  "homepage": "https://abletech.github.io/fhir-fe-poc-pages/",
+  "homepage": "https://tewhatuora.github.io/fhir-fe-poc-pages/",
   "private": true,
   "scripts": {
     "build": "rm -rf build && cd ../fhir-fe-poc && yarn build && rm -rf build/config && cp -R build ../fhir-fe-poc-pages",
