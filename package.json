@@ -4,7 +4,7 @@
   "homepage": "https://tewhatuora.github.io/fhir-fe-poc-pages/",
   "private": true,
   "scripts": {
-    "build": "rm -rf build && cd ../fhir-fe-poc && yarn build && rm -rf build/config && cp -R build ../fhir-fe-poc-pages",
+    "build": "rm -rf build && cd ../fhir-fe-poc-MOH && yarn build && rm -rf build/config && cp -R build ../fhir-fe-poc-pages-MOH",
     "deploy" : "gh-pages -d build"
   },
   "dependencies": {},

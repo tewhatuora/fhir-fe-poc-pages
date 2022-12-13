@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/fhir-fe-poc-pages/static/css/main.3b414db7.css",
-    "main.js": "/fhir-fe-poc-pages/static/js/main.48117502.js",
+    "main.css": "/fhir-fe-poc-pages/static/css/main.b8112168.css",
+    "main.js": "/fhir-fe-poc-pages/static/js/main.12073942.js",
     "static/js/787.b39c0209.chunk.js": "/fhir-fe-poc-pages/static/js/787.b39c0209.chunk.js",
     "static/media/nz-govt-logo.svg": "/fhir-fe-poc-pages/static/media/nz-govt-logo.4f73a3685d4d0e3f85996dc3c798c7b3.svg",
+    "static/media/Te-Whatu-Ora-Logo.svg": "/fhir-fe-poc-pages/static/media/Te-Whatu-Ora-Logo.11f6477a77777005b291875d32cd1f1a.svg",
     "static/media/landing-page-people.svg": "/fhir-fe-poc-pages/static/media/landing-page-people.0a38559993b325260d3459d0d74378ee.svg",
-    "static/media/Te-Whatu-Ora-Logo.svg": "/fhir-fe-poc-pages/static/media/Te-Whatu-Ora-Logo.ebbbb8b61becf73701f61066326ac18d.svg",
     "static/media/external-cms.svg": "/fhir-fe-poc-pages/static/media/external-cms.9ea3b9190f7b4b110019.svg",
     "static/media/external.svg": "/fhir-fe-poc-pages/static/media/external.fba4ff60e22e2ec51f465a1c156ee321.svg",
     "static/media/kowhaiwhai-tipu.svg": "/fhir-fe-poc-pages/static/media/kowhaiwhai-tipu.e9e9c62e18c7915767ebeeb15ccbb761.svg",
@@ -19,12 +19,12 @@
     "static/media/caret.svg": "/fhir-fe-poc-pages/static/media/caret.5b6ff2caea7fab14947995aaa2aafb96.svg",
     "static/media/tick.svg": "/fhir-fe-poc-pages/static/media/tick.a331c048c674797f4ccb.svg",
     "static/media/plus.svg": "/fhir-fe-poc-pages/static/media/plus.1aeae9a2ed29209475ac.svg",
-    "main.3b414db7.css.map": "/fhir-fe-poc-pages/static/css/main.3b414db7.css.map",
-    "main.48117502.js.map": "/fhir-fe-poc-pages/static/js/main.48117502.js.map",
+    "main.b8112168.css.map": "/fhir-fe-poc-pages/static/css/main.b8112168.css.map",
+    "main.12073942.js.map": "/fhir-fe-poc-pages/static/js/main.12073942.js.map",
     "787.b39c0209.chunk.js.map": "/fhir-fe-poc-pages/static/js/787.b39c0209.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b414db7.css",
-    "static/js/main.48117502.js"
+    "static/css/main.b8112168.css",
+    "static/js/main.12073942.js"
   ]
 }
